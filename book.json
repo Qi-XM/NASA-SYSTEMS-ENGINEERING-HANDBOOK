@@ -1,0 +1,32 @@
+{
+    "title": "NASA 系统工程手册 - 中文版",
+    "author" : "QXM",
+    "description" : "",
+    "language" : "zh-hans",
+    "structure": {
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "back-to-top-button"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isShowTocTitleIcon": true
+        }
+    },
+    "links" : {
+        "sidebar" : {
+            "个性链接1" : "https://www.baidu.com",
+            "个性链接2" : "https://www.baidu.com"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
+}
