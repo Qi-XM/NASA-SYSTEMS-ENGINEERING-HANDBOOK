@@ -16,7 +16,7 @@ two test mirror segments are placed onto the support structure that will hold th
 
  *下右：*
 这张 NASA 的好奇号火星探测器的自拍展示了探测车所处的莫哈韦陨击坑地区（Mojave）的风貌。探测器正是在这里对夏普山（Mount Sharp）进行了第二次钻探取样。(NASA/JPL-Caltech/MSSS)
-![img](./images/6975_Curiosity-Rover-Portrait-Mars-Mojave-Selfie-pia19142-MALHI-Labeled-full2.jpg)
+![img](../images/6975_Curiosity-Rover-Portrait-Mars-Mojave-Selfie-pia19142-MALHI-Labeled-full2.jpg)
 
 关于本书的**评论、问题和建议**可以发送给以下联系方式：
 ```
@@ -26,7 +26,7 @@ Office of the Chief Engineer
 NASA Headquarters, Room 6D37
 300 E St SWWashington, DC 20546-0001
 202-358-0775
-*steven.r.hirshorn@nasa.gov*
+steven.r.hirshorn@nasa.gov
 ```
 译者：
 Qi XM
