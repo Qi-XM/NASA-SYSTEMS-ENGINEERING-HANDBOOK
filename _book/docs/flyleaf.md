@@ -11,8 +11,7 @@ NASA SP-2016-6105 Rev2 再版自 SP-2007-6105 Rev1  December, 2007.
 NASA 兰利研究中心于 2016 年 8 月 24 日猎户座飞船（Orion）的一个测试版本进行水流冲击试验。(NASA)
 
  *下左：*
- 放置在支撑结构上的詹姆斯·韦伯望远镜（James Webb Space Telescope,JWST）的两块测试子镜。
-two test mirror segments are placed onto the support structure that will hold them. (NASA/Chris Gunn)
+ 放置在支撑结构上的詹姆斯·韦伯望远镜（James Webb Space Telescope,JWST）的两块测试子镜。(NASA/Chris Gunn)
 
  *下右：*
 这张 NASA 的好奇号火星探测器的自拍展示了探测车所处的莫哈韦陨击坑地区（Mojave）的风貌。探测器正是在这里对夏普山（Mount Sharp）进行了第二次钻探取样。(NASA/JPL-Caltech/MSSS)
