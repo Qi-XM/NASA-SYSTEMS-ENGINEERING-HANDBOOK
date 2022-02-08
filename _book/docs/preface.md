@@ -1,98 +1,13 @@
-# 致谢 Acknowledgments
+# 前言 Preface
 
-以下人员是为本指南内容作出贡献的参与者名单，特此致谢：
+自1995年 NASA/SP-6105 初版、2007 年再版以来，系统工程作为 NASA 的一门学科课题（discipline）经历了快速和长久的发展变革。新增内容涵盖了优化产品的开发和交付的基于模型的系统工程学，以及更人性化的规章制度（NASA Procedural  Requirements，NPR 7123.1）。系统工程的经验教训以文档的形式记录在公开报告中，如 NASA 综合行动小组( NASA  Integrated  Action  Team,NIAT)、哥伦比亚事故调查委员会(Columbia Accident Investigation Board,CAIB)和 Diaz Report 。其他一些经验传承则通过自动化任务的方式收集和存储，如起源号，火星勘测轨道飞行器，以及地面操作和商业性空间飞行工业的事故。根据这些报告，NASA 首席工程师办公室（OCE）为提高NASA系统工程的效率和效率，生产高质量的产品提出提出了改进整个机构系统工程基础设施和能力的一揽子计划，并取得了很大成功。更新这本手册也是是 OCE 发起的全机构系统工程系列计划的一部分。
 
-```
-Alexander, Michael, NASA/Langley Research Center
-Allen, Martha, NASA/Marshall Space Flight Center
-Baumann, Ethan, NASA/Armstrong Flight Research Center
-Bixby, CJ, NASA/Armstrong Flight Research Center
-Boland, Brian, NASA/Langley Research Center
-Brady, Timothy, NASA/NASA Engineering and Safety Center
-Bromley, Linda, NASA/Headquarters/Bromley SE Consulting
-Brown, Mark, NASA/Jet Propulsion Laboratory
-Brumfield, Mark, NASA/Goddard Space Flight Center
-Campbell, Paul, NASA/Johnson Space Center
-Carek, David, NASA/Glenn Research Center
-Cox, Renee, NASA/Marshall Space Flight Center
-Crable, Vicki, NASA/Glenn Research Center
-Crocker, Alan, NASA/Ames Research Center
-DeLoof, Richard, NASA/Glenn Research Center
-Demo, Andrew/Ames Research Center
-Dezfuli, Homayoon, NASA/HQ
-Diehl, Roger, NASA/Jet Propulsion Laboratory
-DiPietro, David, NASA/Goddard Space Flight Center
-Doehne, Thomas, NASA/Glenn Research Center
-Duarte, Alberto, NASA/Marshall Space Flight Center
-Durham, David, NASA/Jet Propulsion Laboratory
-Epps, Amy, NASA/Marshall Space Flight Center
-Fashimpaur, Karen, Vantage Partners
-Feikema, Douglas, NASA/Glenn Research Center
-Fitts, David, NASA/Johnson Space Flight Center
-Foster, Michele, NASA/Marshall Space Flight Center
-Fuller, David, NASA/Glenn Research Center
-Gati, Frank, NASA/Glenn Research Center
-Gefert, Leon, NASA/Glenn Research Center
-Ghassemieh, Shakib, NASA/Ames Research Center
-Grantier, Julie, NASA/Glenn Research Center
-Hack, Kurt, NASA/Glenn Research Center
-Hall, Kelly, NASA/Glenn Research Center
-Hamaker, Franci, NASA/Kennedy Space Center
-Hange, Craig, NASA/Ames Research Center
-Henry, Thad, NASA/Marshall Space Flight Center
-Hill, Nancy, NASA/Marshall Space Flight Center
-Hirshorn, Steven, NASA/Headquarters
-Holladay, Jon, NASA/NASA Engineering and Safety Center
-Hyatt, Mark, NASA/Glenn Research Center
-Killebrew, Jana, NASA/Ames Research Center
-Jannette, Tony, NASA/Glenn Research Center
-Jenks, Kenneth, NASA/Johnson Space Center
-Jones, Melissa, NASA/Jet Propulsion Laboratory
-Jones, Ross, NASA/Jet Propulsion Laboratory
-Killebrew, Jana, NASA/Ames Research Center
-Leitner, Jesse, NASA/Goddard Space Flight Center
-Lin, Chi, NASA/Jet Propulsion Laboratory
-Mascia, Anne Marie, Graphic Artist
-McKay, Terri, NASA/Marshall Space Flight Center
-McNelis, Nancy, NASA/Glenn Research Center
-Mendoza, Donald, NASA/Ames Research Center
-Miller, Scott, NASA/Ames Research Center
-Montgomery, Patty, NASA/Marshall Space Flight Center
-Mosier, Gary, NASA/Goddard Space Flight Center
-Noble, Lee, NASA/Langley Research Center
-Oleson, Steven, NASA/Glenn Research Center
-Parrott, Edith, NASA/Glenn Research Center
-Powell, Christine, NASA/Stennis Space Center
-Powell, Joseph, NASA/Glenn Research Center
-Price, James, NASA/Langley Research Center
-Rawlin, Adam, NASA/Johnson Space Center
-Rochlis-Zumbado, Jennifer, NASA/Johnson Space Center
-Rohn, Dennis, NASA/Glenn Research Center
-Rosenbaum, Nancy, NASA/Goddard Space Flight Center
-Ryan, Victoria, NASA/Jet Propulsion Laboratory
-Sadler, Gerald, NASA/Glenn Research Center
-Salazar, George, NASA/Johnson Space Center
-Sanchez, Hugo, NASA/Ames Research Center
-Schuyler, Joseph, NASA/Stennis Space Center
-Sheehe, Charles, NASA/Glenn Research Center
-Shepherd, Christena, NASA/Marshall Space Flight Center
-Shull, Thomas, NASA/Langley Research Center
-Singer, Bart, NASA/Langley Research Center
-Slywczak, Richard, NASA/Glenn Research Center
-Smith, Scott, NASA/Goddard Space Flight Center
-Smith, Joseph, NASA/Headquarters
-Sprague, George, NASA/Jet Propulsion Laboratory
-Trase, Kathryn, NASA/Glenn Research Center
-Trenkle, Timothy, NASA/Goddard Space Flight Center
-Vipavetz, Kevin, NASA/Langley Research Center
-Voss, Linda, Dell Services
-Walters, James Britton, NASA/Johnson Space Center
-Watson, Michael, NASA/Marshall Space Flight Center
-Weiland, Karen, NASA/Glenn Research Center
-Wiedeman, Grace, Dell Services
-Wiedenmannott, Ulrich, NASA/Glenn Research Center
-Witt, Elton, NASA/Johnson Space Center
-Woytach, Jeffrey, NASA/Glenn Research Center
-Wright, Michael, NASA/Marshall Space Flight Center
-Yu, Henry, NASA/Kennedy Space Center
-```
+1995年初版的 SP-6105 是为了通过将系统工程的基本概念和技术介绍给 NASA 人员，以一种认识到NASA系统和NASA环境的性质的方式。这本 SP-6105 修订版(Rev 2)在保持原始的理念和哲学的同时，更新了机构系统工程知识体系的同时，提供了深入理解当下最佳实践的方法指导，并保持了手册与机构系统工程政策的一致性。
+
+本手册的更新延续了前一修订版的方法：自顶向下（top-down）与更高一级的机构政策相兼容，并自底向上（bottom-up）由相应领域的 NASA 从业人员提供专业指导。这种方式使得从全 NASA 总结获取最佳实践经验将取得的知识接入到已建立的 NASA 系统工程流程中成为可能。同时传达了不应只为了完成任务而工作，而应该探索更多更好的替代方案这一工作理念。本手册展现了 NASA 特有的系统工程实践的顶层实现方法的成果。本手册此次更新所使用的素材来自诸多方面，如 NASA 程序性要求（NPR），中心系统工程手册和流程，其他机构的最佳实践，以及外部系统工程教科书和指南。
+
+本手册由六个章节组成：（1）绪论；（2）系统工程基础；（3）NASA 项目集和项目的生命周期；（4）从概念到设计的系统工程过程；（5）从设计到最终产品的系统工程过程；（6）系统工程中的管理过程综述。
+
+最后，需要读者注意的是，本手册仅为分享一些较好的系统工程实践经验的顶层引导，而并非必须遵从的铁律。
+
+>NASA/SP-2016-6105 Rev2 再版自 SP-2007-6105 Rev 1 dated December, 2007.
